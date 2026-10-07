@@ -31,4 +31,5 @@ Also answer the following questions in your submission for this problem:
        The columns that should be displayed are `CustomerName` `OrderID`, `Employee`, `RequiredDate`, `ShippedDate`, `DaysDifference` (created in SELECT query). These columns provide sufficient information to know basic information about the order. Including the Employee also helps to speed up any customer service issues that may arise from a delayed shipment. 
     2. **How should the results be ordered?**
        I think that the order is closely tied to the business case. Since we don't have that, I chose to arrange them in descending order based on the biggest difference in days. If Customer tiers were part of the database, this could be an alternate sorting to bring top clients the best and fastest service. 
+       
 ![Problem1](img/Problem11.png)
